@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "672151882294",
+    "firebase_url": "https://smart-cam-fbc47-default-rtdb.firebaseio.com",
+    "project_id": "smart-cam-fbc47",
+    "storage_bucket": "smart-cam-fbc47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672151882294:android:ec47ffc98833bea10ee697",
+        "android_client_info": {
+          "package_name": "com.example.smartcam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672151882294-3ra0sv7cacmgg97f7hkeu3muftrqap0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufljw0qsFCOEmtBIq4LmbvQL3hAes7uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672151882294-3ra0sv7cacmgg97f7hkeu3muftrqap0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
